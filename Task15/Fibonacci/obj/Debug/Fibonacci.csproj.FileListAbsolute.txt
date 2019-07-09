@@ -31,3 +31,38 @@ D:\My\Mentoring2019\Task15\Fibonacci\bin\Debug\System.IO.Pipelines.xml
 D:\My\Mentoring2019\Task15\Fibonacci\bin\Debug\System.Buffers.xml
 D:\My\Mentoring2019\Task15\Fibonacci\bin\Debug\System.Numerics.Vectors.xml
 D:\My\Mentoring2019\Task15\Fibonacci\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\iammr\OneDrive\Рабочий стол\Новая папка\TAsk15\Task15\Fibonacci\bin\Debug\Fibonacci.dll.config
+C:\Users\iammr\OneDrive\Рабочий стол\Новая папка\TAsk15\Task15\Fibonacci\bin\Debug\Fibonacci.dll
+C:\Users\iammr\OneDrive\Рабочий стол\Новая папка\TAsk15\Task15\Fibonacci\bin\Debug\Fibonacci.pdb
+C:\Users\iammr\OneDrive\Рабочий стол\Новая папка\TAsk15\Task15\Fibonacci\bin\Debug\MyCaching.dll
+C:\Users\iammr\OneDrive\Рабочий стол\Новая папка\TAsk15\Task15\Fibonacci\bin\Debug\StackExchange.Redis.dll
+C:\Users\iammr\OneDrive\Рабочий стол\Новая папка\TAsk15\Task15\Fibonacci\bin\Debug\System.Memory.dll
+C:\Users\iammr\OneDrive\Рабочий стол\Новая папка\TAsk15\Task15\Fibonacci\bin\Debug\System.Threading.Channels.dll
+C:\Users\iammr\OneDrive\Рабочий стол\Новая папка\TAsk15\Task15\Fibonacci\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\iammr\OneDrive\Рабочий стол\Новая папка\TAsk15\Task15\Fibonacci\bin\Debug\Pipelines.Sockets.Unofficial.dll
+C:\Users\iammr\OneDrive\Рабочий стол\Новая папка\TAsk15\Task15\Fibonacci\bin\Debug\System.IO.Compression.dll
+C:\Users\iammr\OneDrive\Рабочий стол\Новая папка\TAsk15\Task15\Fibonacci\bin\Debug\System.IO.Pipelines.dll
+C:\Users\iammr\OneDrive\Рабочий стол\Новая папка\TAsk15\Task15\Fibonacci\bin\Debug\System.Buffers.dll
+C:\Users\iammr\OneDrive\Рабочий стол\Новая папка\TAsk15\Task15\Fibonacci\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\iammr\OneDrive\Рабочий стол\Новая папка\TAsk15\Task15\Fibonacci\bin\Debug\netstandard.dll
+C:\Users\iammr\OneDrive\Рабочий стол\Новая папка\TAsk15\Task15\Fibonacci\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\iammr\OneDrive\Рабочий стол\Новая папка\TAsk15\Task15\Fibonacci\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\iammr\OneDrive\Рабочий стол\Новая папка\TAsk15\Task15\Fibonacci\bin\Debug\System.Net.Sockets.dll
+C:\Users\iammr\OneDrive\Рабочий стол\Новая папка\TAsk15\Task15\Fibonacci\bin\Debug\MyCaching.pdb
+C:\Users\iammr\OneDrive\Рабочий стол\Новая папка\TAsk15\Task15\Fibonacci\bin\Debug\MyCaching.dll.config
+C:\Users\iammr\OneDrive\Рабочий стол\Новая папка\TAsk15\Task15\Fibonacci\bin\Debug\StackExchange.Redis.xml
+C:\Users\iammr\OneDrive\Рабочий стол\Новая папка\TAsk15\Task15\Fibonacci\bin\Debug\System.Memory.xml
+C:\Users\iammr\OneDrive\Рабочий стол\Новая папка\TAsk15\Task15\Fibonacci\bin\Debug\System.Threading.Channels.xml
+C:\Users\iammr\OneDrive\Рабочий стол\Новая папка\TAsk15\Task15\Fibonacci\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\iammr\OneDrive\Рабочий стол\Новая папка\TAsk15\Task15\Fibonacci\bin\Debug\Pipelines.Sockets.Unofficial.xml
+C:\Users\iammr\OneDrive\Рабочий стол\Новая папка\TAsk15\Task15\Fibonacci\bin\Debug\System.IO.Pipelines.xml
+C:\Users\iammr\OneDrive\Рабочий стол\Новая папка\TAsk15\Task15\Fibonacci\bin\Debug\System.Buffers.xml
+C:\Users\iammr\OneDrive\Рабочий стол\Новая папка\TAsk15\Task15\Fibonacci\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\iammr\OneDrive\Рабочий стол\Новая папка\TAsk15\Task15\Fibonacci\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\iammr\OneDrive\Рабочий стол\Новая папка\TAsk15\Task15\Fibonacci\obj\Debug\Fibonacci.csprojAssemblyReference.cache
+C:\Users\iammr\OneDrive\Рабочий стол\Новая папка\TAsk15\Task15\Fibonacci\obj\Debug\Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\iammr\OneDrive\Рабочий стол\Новая папка\TAsk15\Task15\Fibonacci\obj\Debug\Fibonacci.csproj.CopyComplete
+C:\Users\iammr\OneDrive\Рабочий стол\Новая папка\TAsk15\Task15\Fibonacci\obj\Debug\Fibonacci.dll
+C:\Users\iammr\OneDrive\Рабочий стол\Новая папка\TAsk15\Task15\Fibonacci\obj\Debug\Fibonacci.pdb
+C:\Users\iammr\OneDrive\Рабочий стол\Новая папка\TAsk15\Task15\Fibonacci\bin\Debug\Logging.dll
+C:\Users\iammr\OneDrive\Рабочий стол\Новая папка\TAsk15\Task15\Fibonacci\bin\Debug\Logging.pdb

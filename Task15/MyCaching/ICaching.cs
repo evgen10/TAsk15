@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace MyCaching
 {
-    public interface ICaching
+    public interface ICaching<T>
     {
-        void PutToCache(string key, object item);
-        object GetFromCache(string key);
+        void PutToCache(string key, T item);
+        T GetFromCache(string key);
     }
 }

@@ -4,29 +4,36 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using MyCaching;
+using Logging;
 
 namespace Fibonacci
 {
     public class FibonacciSequence
     {
-        private readonly ICaching cache;
+        private readonly ICaching<List<int>> cache;
         private const string FibonacciSequenceKey = "FibonacciSequence";
-
-        public FibonacciSequence(ICaching cache)
+        private readonly ILogger logger;
+        public FibonacciSequence(ICaching<List<int>> cache, ILogger logger)
         {
             this.cache = cache;
+            this.logger = logger;
         }
 
         public List<int> GetFibonacciSequence(int quantity)
         {
             string key = FibonacciSequenceKey + quantity;
 
-            List<int> sequence = cache.GetFromCache(key) as List<int>;
+            List<int> sequence = cache.GetFromCache(key);
 
             if (sequence == null)
             {
                 sequence = CreateFibonacciSequence(quantity);
                 cache.PutToCache(key,sequence);
+                logger.Log("Sequance is generated.");  
+            }
+            else
+            {
+                logger.Log("Sequance is from cache.");
             }
 
             return sequence;

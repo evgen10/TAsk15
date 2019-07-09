@@ -8,16 +8,21 @@ using System.Runtime.Caching;
 
 namespace MyCaching
 {
-    public class InProcessCaching : ICaching
+    public class InProcessCaching<T> : ICaching<T>
     {
-        private readonly ObjectCache cache = MemoryCache.Default;
+        private readonly ObjectCache cache;
 
-        public object GetFromCache(string key)
+        public InProcessCaching()
         {
-            return cache[key];
+            cache = MemoryCache.Default;
         }
 
-        public void PutToCache(string key, object item)
+        public T GetFromCache(string key)
+        {
+            return (T)cache[key];
+        }
+
+        public void PutToCache(string key, T item)
         {
             cache.Set(key, item, ObjectCache.InfiniteAbsoluteExpiration);
         }

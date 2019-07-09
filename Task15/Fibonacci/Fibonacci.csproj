@@ -46,6 +46,10 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\Logging\Logging.csproj">
+      <Project>{f9b27bcf-be27-4888-b35d-9c60b83ede4f}</Project>
+      <Name>Logging</Name>
+    </ProjectReference>
     <ProjectReference Include="..\MyCaching\MyCaching.csproj">
       <Project>{1355dded-b98e-457c-a81b-88fec8e52e17}</Project>
       <Name>MyCaching</Name>

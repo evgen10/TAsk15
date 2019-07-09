@@ -1,0 +1,6 @@
+C:\Users\iammr\OneDrive\Рабочий стол\Новая папка\TAsk15\Task15\Logging\bin\Debug\Logging.dll
+C:\Users\iammr\OneDrive\Рабочий стол\Новая папка\TAsk15\Task15\Logging\bin\Debug\Logging.pdb
+C:\Users\iammr\OneDrive\Рабочий стол\Новая папка\TAsk15\Task15\Logging\obj\Debug\Logging.csprojAssemblyReference.cache
+C:\Users\iammr\OneDrive\Рабочий стол\Новая папка\TAsk15\Task15\Logging\obj\Debug\Logging.csproj.CoreCompileInputs.cache
+C:\Users\iammr\OneDrive\Рабочий стол\Новая папка\TAsk15\Task15\Logging\obj\Debug\Logging.dll
+C:\Users\iammr\OneDrive\Рабочий стол\Новая папка\TAsk15\Task15\Logging\obj\Debug\Logging.pdb
